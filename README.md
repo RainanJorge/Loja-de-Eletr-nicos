@@ -1,2 +1,2 @@
-# Loja-de-Eletr-nicos
+# Loja-de-Eletrônicos
 Um Web Site sobre uma loja de eletrônicos
